@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'texast-util-add-preamble',
   preset: '../../../jest.preset.js',
